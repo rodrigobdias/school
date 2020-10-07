@@ -1,4 +1,4 @@
-package school;
+package br.com.alura.school.aluno;
 
 public class FabricaDeAluno {
 

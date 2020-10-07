@@ -1,4 +1,4 @@
-package school;
+package br.com.alura.school.aluno;
 
 import java.util.ArrayList;
 import java.util.List;
