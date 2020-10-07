@@ -1,4 +1,4 @@
-package br.com.alura.school.aluno;
+package br.com.alura.school.dominio.aluno;
 
 public class CPF {
 	

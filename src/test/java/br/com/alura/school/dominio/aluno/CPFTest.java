@@ -1,10 +1,10 @@
-package br.com.alura.school.aluno;
+package br.com.alura.school.dominio.aluno;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.school.aluno.CPF;
+import br.com.alura.school.dominio.aluno.CPF;
 
 class CPFTest {
 
