@@ -20,16 +20,19 @@ public class Aluno {
 		this.telefones.add(new Telefone(ddd, numero));
 	}
 	
-	public CPF getCpf() {
-		return cpf;
+	public String getCpf() {
+		return cpf.getNumero();
 	}
 	
-	public Email getEmail() {
-		return email;
+	public String getEmail() {
+		return email.getEndereco();
 	}
 	
 	public String getName() {
 		return name;
 	}
 	
+	public List<Telefone> getTelefones() {
+		return telefones;
+	}
 }
