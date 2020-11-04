@@ -1,6 +1,7 @@
 # school
+========
 
-Practice of Architecture Model concepts:
+**Practice of Architecture Model concepts:**
 
 Clean Architecture
 
